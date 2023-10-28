@@ -50,7 +50,7 @@ PostgreSQL, Visual Studia Code.
 
 In order to use this project.. Clone this repository to your desired folder by pasting this command in your command line interface:
 
-  https://github.com/tajemouti/vet-clinic.git
+  https://github.com/Uzair-Manzoor/vet_clinic.git
 
 ### Prerequisites <a name="prerequisites"></a>
 
