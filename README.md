@@ -110,6 +110,6 @@ I would like to thank Microverse.
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](/LICENSE) license.
+This project is [MIT](https://github.com/Uzair-Manzoor/vet_clinic/blob/createAnimalsTable/MIT.md) license.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
