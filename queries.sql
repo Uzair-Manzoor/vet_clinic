@@ -33,7 +33,6 @@ COMMIT;
 -- The new query to get the average escape_attempts for neutered and not neutered animals
 SELECT neutered, AVG(escape_attempts) FROM animals GROUP BY neutered;
 SELECT COUNT(*) FROM animals;
-SELECT COUNT(escape_attempts) FROM animals WHERE escape_attempts = 0;
 SELECT AVG(weight_kg) FROM animals;
 SELECT neutered, COUNT(escape_attempts) FROM animals GROUP BY neutered;
 SELECT species, MIN(weight_kg), MAX(weight_kg) FROM animals GROUP BY species;
