@@ -74,11 +74,17 @@ psql vet_clinic;
 ```
 ## Authors
 
-👤 **Author**
+👤 **Authors**
 
 - GitHub: [@Uzair-Manzoor](https://github.com/Uzair-Manzoor)
 - Twitter: [@Uzair-M](https://twitter.com/UzairKiyani5555)
 - LinkedIn: [Uzair-Manzoor](https://www.linkedin.com/in/uzair-manzoor-b69996115/)
+
+👤 **Abu Talha**
+
+- GitHub: [@githubhandle](https://github.com/AbuTalha3)
+- Twitter: [@twitterhandle](https://twitter.com/AbuTalha8T)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/abu-talha-najeeb-akhun-393b8b292/)
 
 ## 🔭 Future Features <a name="future-features"></a>
 
